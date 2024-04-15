@@ -28,7 +28,7 @@ if __name__ == "__main__":
     ax.grid(True, linestyle = '-')
     ax.set_yticks(np.arange(0, 450, 50))
     #Bild speichern:
-    datapath = 'figures\my_power_curve.png'
+    datapath = r'figures\my_power_curve.png'
     plt.savefig(datapath)
     plt.show()
 
