@@ -23,4 +23,6 @@ Leistungskurve
 
 ## Der Code kann nun ausgeführt werden.
 
-## Wird der Code ausgeführt, wird eine Bilddatei namens "Leistungskurve.png" gespeichert.
+## Somit wird eine Bilddatei gespeichert.
+- Diese wird im Ordner <figures> gespeichert.
+- Die Datei trägt den Namen <my_power_curve.png>
