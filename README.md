@@ -3,7 +3,7 @@ Leistungskurve
 
 ## Klonen Sie das GitHub-Repository auf Ihren PC:
 - Öffnen Sie dazu Git Bash und navigieren Sie zu dem gewünschten Ordner: cd "<gewünschter Ordner>"
-- Geben Sie den folgenden Befehl ein, um das Repository in den Ordner zu klonen: git clone <Link des Repositorys>
+- Geben Sie den folgenden Befehl ein, um das Repository in den Ordner zu klonen: git clone <https://github.com/MarkusMitteregger/Sakai_Aufgabe_1.git>
 
 ## Öffnen Sie den Ordner in VS Code.
 
