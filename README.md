@@ -10,7 +10,7 @@ Leistungskurve
 ## Virtuellen Bereich erstellen:
 - Öffnen Sie ein neues Terminal --> Windows PowerShell.
 - Geben Sie folgenden Befehl ein, um einen virtuellen Bereich zu erstellen: python -m venv .venv
-- Geben Sie folgenden Befehl ein, um einen virtuellen Bereich zu aktivieren: .\.venv\Scripts\Activate
+- Geben Sie folgenden Befehl ein, um einen virtuellen Bereich zu aktivieren: .\\.venv\Scripts\Activate
 - Falls dieser nicht funktioniert, geben Sie vorher folgenden Befehl ein, um den Zugriff zu erlauben: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser.
 - Der virtuelle Bereich ist nun erstellt und aktiviert.
 
